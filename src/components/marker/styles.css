@@ -1,0 +1,7 @@
+.img-marker{
+    width: 100px;
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    border-radius: 100%;
+}
